@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1553260005 source:c:\users\jacop\desktop\programmazione\programmazione c++\pac-man\main.cpp
+	<iostream>
+	"beragsomontabaa.h"
+
+1553292377 c:\users\jacop\desktop\programmazione\programmazione c++\pac-man\beragsomontabaa.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1553609928 source:c:\users\jacop\desktop\pac-man\main.cpp
+	<iostream>
+	"beragsomontabaa.h"
+
+1553610045 c:\users\jacop\desktop\pac-man\beragsomontabaa.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1553669792 source:c:\users\utente\desktop\pac-man\main.cpp
+	<iostream>
+	"beragsomontabaa.h"
+
+1553670005 c:\users\utente\desktop\pac-man\beragsomontabaa.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1554378645 source:d:\pac-man\main.cpp
+	<iostream>
+	"beragsomontabaa.h"
+
+1554451873 d:\pac-man\beragsomontabaa.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1554378645 source:e:\pac-man\main.cpp
+	<iostream>
+	"beragsomontabaa.h"
+
+1554382531 e:\pac-man\beragsomontabaa.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1554633919 source:c:\users\jacop\desktop\pacchi mannie\main.cpp
+	<iostream>
+	"beragsomontabaa.h"
+
+1554633822 c:\users\jacop\desktop\pacchi mannie\beragsomontabaa.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1554763524 source:c:\users\jacop\desktop\pacchomane\main.cpp
+	<iostream>
+	"beragsomontabaa.h"
+
+1554764043 c:\users\jacop\desktop\pacchomane\beragsomontabaa.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	"costanti.h"
+
+1554760497 c:\users\jacop\desktop\pacchomane\costanti.h
+
